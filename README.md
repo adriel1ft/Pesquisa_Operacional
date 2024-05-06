@@ -1,7 +1,7 @@
 # 🎯 Projeto Branch and Bound
 
 ## Sobre o projeto
-Neste trabalho, implementamos, em Python, o algoritmo branch-and-bound para problemas de programação linear inteira binária. Todas as funções objetivos dos testes são de maximização e todas as restrições são de "menor ou igual", com exceção daquelas que definem o domínio das variáveis.
+Neste trabalho, implementamos, em Python, o algoritmo branch-and-bound para problemas de programação linear inteira binária, com variáveis do tipo contínuas. Todas as funções objetivos dos testes são de maximização e todas as restrições são de "menor ou igual", com exceção daquelas que definem o domínio das variáveis.
 
 ## Stacks utilizadas
 1. Python
